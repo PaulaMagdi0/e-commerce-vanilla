@@ -67,7 +67,7 @@ To run this project locally:
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/OmarSameh2001/e-commerce-vanilla.git
+   git clone https://github.com/PaulaMagdi0/e-commerce-vanilla.git
    ```
 
 2. **Navigate to the project directory**:
@@ -86,10 +86,6 @@ Experience the live version of the website here: [e-commerce-vanilla.vercel.app]
 
 Contributions are welcome! Feel free to fork this repository, make enhancements, and submit a pull request.
 
-## License
-
-This project is licensed under the MIT License.
-
 ## Contact
 
-For any inquiries or feedback, please contact Omar Sameh at [omar.sameh@example.com](mailto:omar.sameh@example.com).
+For any inquiries or feedback, please contact Paula Magdy at [paulamagdy665@gmail.com](mailto:paulamagdy665@gmail.com).
